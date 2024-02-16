@@ -1,0 +1,3 @@
+[submodule "verbal-diary-go-server"]
+	path = verbal-diary-go-server
+	url = https://github.com/Andrew-Pynch/verbal-diary-go-server
